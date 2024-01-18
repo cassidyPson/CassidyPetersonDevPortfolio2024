@@ -144,5 +144,26 @@ span{
     transition: 0.3s ease;
     cursor: pointer;
 }
-
-/* time to resume: 13:18 */
+.btn:hover{
+    box-shadow: 0 0 25px var(--main-color);
+    transform: scale(1.05);
+}
+.text-animation{
+    font-size: 34px;
+    font-weight: 600;
+    min-width: 280px;
+}
+.text-animation span{
+    position: relative;
+}
+.text-animation span::before{
+    content: 'Youtuber';
+    color: var(--main-color);
+    animation: words 20s infinite;
+}
+.text-animation span::after{
+    content: '';
+    background-color: var(--main-color);
+    position: absolute;
+    width: calc(100% + 8px);
+}
