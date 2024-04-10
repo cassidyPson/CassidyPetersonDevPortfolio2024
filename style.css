@@ -278,12 +278,12 @@ span{
     align-items: center;
     justify-content: center;
     gap: 2rem;
-    border: 1px red solid;
+    /* border: 1px red solid; */
 }
 .tech-box{
     width: 10vw;
     display: flex;
-    border: 1px red solid;
+    /* border: 1px red solid; */
 }
 .tech-box i{
     font-size: 14rem;
