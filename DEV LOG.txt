@@ -1,0 +1,9 @@
+DEV LOG:
+4/27/24
+
+- creating some images for the projects page
+- I will try to create a grid layout with 4 pictures width across the page
+
+- A image within this grid layout should be:
+480 width
+270 height
