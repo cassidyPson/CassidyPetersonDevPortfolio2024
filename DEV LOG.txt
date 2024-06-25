@@ -7,3 +7,18 @@ DEV LOG:
 - A image within this grid layout should be:
 480 width
 270 height
+
+5/15/24
+
+- styling edits to differentiate the base of the site more from the template
+- projecs section added
+
+5/21/24
+
+- added linked in profile
+- added the technologies section
+
+6/24/24
+
+- when shrinking the web page, the projects text gets really small, looking into a fix for this.
+- removed the "active" class which was attatched to the home button in the navbar maing the text permanently green.
