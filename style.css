@@ -158,7 +158,7 @@ span{
     position: relative;
 }
 .text-animation span::before{
-    content: 'Youtuber';
+    content: 'Developer';
     color: var(--main-color);
     animation: words 20s infinite;
 }
@@ -260,7 +260,7 @@ span{
 }
 
 .about-content .text-animation span::before{
-    content: 'Youtuber';
+    content: 'Graphic designer';
     color: var(--main-color);
     animation: words 20s infinite;
 }
